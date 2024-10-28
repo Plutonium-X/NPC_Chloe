@@ -1,4 +1,4 @@
-# Chloé la Kensaî demi-divine
+# Chloé la Kensaï demi-divine
 
 Elle vous attend dans le donjon d'Irenicus, premier niveau, dans le plan de l'air après les duergars. Pas la peine d'aller chercher la statue pour ouvrir la porte, le mod fait que la porte est déjà ouverte. Si vous êtes un homme vous pouvez la romancer mais il est pour cela impératif d'avoir Imoen dans l'équipe.
 
