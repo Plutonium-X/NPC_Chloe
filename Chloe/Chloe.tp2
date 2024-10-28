@@ -266,6 +266,10 @@ ADD_KIT ~YRKENSAI~ /* this is the "internal" name of your kit, like
 SAY @33
 SAY @33
 SAY @34
+
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+LAF fl#add_kit_ee	STR_VAR kit_name = YRKENSAI	END
+END
  
 
 // Chloe
