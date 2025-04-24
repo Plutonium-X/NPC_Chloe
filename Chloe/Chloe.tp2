@@ -2,12 +2,13 @@ BACKUP ~Chloe/backup~
 AUTHOR ~Lucythebeast@hotmail.com~
 
 // Version appearing in WeiDU.log
-VERSION ~v1.5~
+VERSION ~v1.7~
 
 AUTO_TRA ~Chloe/Language/%s~ // This will tell WeiDU the folder where the D's are stored.
 
 ALWAYS
 ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+		INCLUDE ~Chloe/fl#add_kit_ee.tpa~
 		ACTION_DEFINE_ARRAY ch_reload BEGIN
 		~Setup.tra~
 		END
