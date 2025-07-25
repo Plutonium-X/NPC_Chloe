@@ -5,7 +5,7 @@ Si vous êtes une femme vous pouvez la romancer.
 Si vous êtes un homme ou si vous retrouvez Imoen à Spellhold sans avoir beaucoup évolué dans la romance avec Chloé, cette dernière draguera Imoen.
 
 Particularités :
-- Caractéristiques : force 13, dextérité 25 !, endurance 16, intelligence 12, sagesse 12, charisme 14.
+- Caractéristiques : FOR 13, DEX 25, CON 16, INT 12, SAG 12, CHA 14.
 - Elle est immunisée aux charmes et à la lenteur
 - Elle est équipée de deux épées qui évolueront au court de l'histoire pour finir +5 avec des dégats elementaires et des capacités par jour. Mieux vaut ne pas en changer.
 - Elle n'a pas de contenu TOB. Pratique pour la remplacer par Sarevok ou Irenicus.
