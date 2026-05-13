@@ -9,13 +9,12 @@ AUTO_TRA ~Chloe/Language/%s~ // This will tell WeiDU the folder where the D's ar
 ALWAYS
 ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
 		INCLUDE ~Chloe/fl#add_kit_ee.tpa~
-		ACTION_DEFINE_ARRAY ch_reload BEGIN
-		~Setup.tra~
-		END
-		ACTION_DEFINE_ARRAY ch_noconvert BEGIN END
+		ACTION_DEFINE_ARRAY ch_reload BEGIN	END
+		ACTION_DEFINE_ARRAY ch_noconvert BEGIN setup END
 			LAF HANDLE_CHARSETS
 			INT_VAR
 			infer_charset = 1
+			from_utf8 = 1
 			STR_VAR
 			tra_path = EVAL ~%MOD_FOLDER%/Language~
 			noconvert_array = ch_noconvert
@@ -50,6 +49,9 @@ LANGUAGE ~Russian (by aerie.ru)~
          ~Russian~
          ~Chloe/Language/Russian/setup.tra~
 
+LANGUAGE ~Chinese (by anca_qin)~
+         ~SChinese~
+         ~Chloe/Language/SChinese/setup.tra~
 
 // And that is all (The rest is the same as the last uploaded version)
 
