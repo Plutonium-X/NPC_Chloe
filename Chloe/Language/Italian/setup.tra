@@ -2,7 +2,7 @@
 @1    = ~(Chloe ti lancia un'occhiata fulminante mentre riprende indietro la sua arma)~
 @2    = ~Raccoglila da terra IMMEDIATAMENTE e riportala qui.~
 @3    = ~Meglio tenere questa nel MIO inventario~
-@4    = ~Questa spada mi Ë stata data dagli Dei stessi. Per cui NO, grazie, non la voglio lasciare a terra.~
+@4    = ~Questa spada mi √® stata data dagli Dei stessi. Per cui NO, grazie, non la voglio lasciare a terra.~
 @5    = ~Non. Toccare. Le mie spade. MAI!~
 @6    = ~Per qualche strana ragione ti viene da pensare che questa spada sia qui per farti giocare con essa~
 @7    = ~Credo che *questa* appartenga a ME.~
@@ -11,11 +11,11 @@
 @10   = ~Ah ah ah! Dici sul serio!?~
 @11   = ~Non toccare la spada. Morde!~
 @12   = ~Cosa stai pensando di fare? Ridammela!~
-@13   = ~La figlia di Aran Linvail Ë stata rapita.
+@13   = ~La figlia di Aran Linvail √® stata rapita.
    
-   Ho trovato una piccola tana di vampiri a nord della magione di Balthis. Potrebbe essere lÏ che Abagail Ë stata presa. Resta da vedere se lei Ë ancora lÏ.~
+   Ho trovato una piccola tana di vampiri a nord della magione di Balthis. Potrebbe essere l√¨ che Abagail √® stata presa. Resta da vedere se lei √® ancora l√¨.~
 @14   = ~Signore!~
-@15   = ~Piet‡! Non voglio morire!!~
+@15   = ~Piet√†! Non voglio morire!!~
 @16   = ~Vuoi che sia io a comandare? Ok, se lo dici tu...~ [CHLOEB]
 @17   = ~Chloe~
 @18   = ~TakerCR~
@@ -34,56 +34,56 @@
 @31   = ~Vampiro~
 @32   = ~Vampiro Anziano~
 @33   = ~Kensai~
-@34   = ~KENSAI: Questa classe Ë nota anche come il 'Santo della Spada',e consiste di un guerriero appositamente addestrato per essere una cosa sola con la sua spada. Questi guerrieri sono mortali e veloci e addestrati a combattere senza intralcio.
+@34   = ~KENSAI: Questa classe √® nota anche come il 'Santo della Spada',e consiste di un guerriero appositamente addestrato per essere una cosa sola con la sua spada. Questi guerrieri sono mortali e veloci e addestrati a combattere senza intralcio.
 
 Vantaggi:
 -  Bonus +1 per colpire e +1 al danno per ogni 3 livelli
 -  Bonus -2 alla CA
--  Bonus -1 al fattore di velocit‡ ogni 4 livelli
--  PuÚ usare il 'colpo kai' una volta al giorno ogni 4 livelli (parte al primo livello con un uso): questa abilit‡ dura 10 secondi e fa sÏ che tutti gli attacchi andati a segno infliggano danno pieno.
+-  Bonus -1 al fattore di velocit√† ogni 4 livelli
+-  Pu√≤ usare il 'colpo kai' una volta al giorno ogni 4 livelli (parte al primo livello con un uso): questa abilit√† dura 10 secondi e fa s√¨ che tutti gli attacchi andati a segno infliggano danno pieno.
 
 Svantaggi:
--  Non puÚ usare armi da lancio o a proiettile
--  Non puÚ indossare armature
--  Non puÚ indossare guanti o bracciali~
+-  Non pu√≤ usare armi da lancio o a proiettile
+-  Non pu√≤ indossare armature
+-  Non pu√≤ indossare guanti o bracciali~
 @35   = ~(Sigh) Sto per addormentarmi qui. Abbiamo bisogno di accamparci presto.~ [CHLOEC]
 @36   = ~Possiamo fare qualsiasi altra cosa piuttosto che starcene qui in piedi a far niente, PER FAVORE?~ [CHLOED]
 @37   = ~Tu non puoi battere una Yr'Kai!~ [CHLOE8]
-@38   = ~Non riceverai alcuna piet‡ da me!~ [CHLOE9]
+@38   = ~Non riceverai alcuna piet√† da me!~ [CHLOE9]
 @39   = ~Prova la furia di Akadia!~ [CHLOEA]
 @40   = ~Angh...~ [CHLOEL]
 @41   = ~Akadia... Io ritorno da te...~ [CHLOEM]
 @42   = ~Anngh... ho bisogno di aiuto, sacerdote...~ [CHLOEE]
-@43   = ~Aaahh... annusa l'aria fresca... senti questi morsi di insetto... sÏ, questa Ë una camminata nella foresta, che GRANDE idea...~ [CHLOEN]
-@44   = ~Le citt‡ mi affascinano. C'Ë sempre un'opportunit‡ ad ogni angolo... e un ladro pronto a portartela via.~ [CHLOEO]
-@45   = ~C'Ë un bel buio qui... spero che la mia eredit‡ divina comprenda l'infravisione...!~ [CHLOEP]
+@43   = ~Aaahh... annusa l'aria fresca... senti questi morsi di insetto... s√¨, questa √® una camminata nella foresta, che GRANDE idea...~ [CHLOEN]
+@44   = ~Le citt√† mi affascinano. C'√® sempre un'opportunit√† ad ogni angolo... e un ladro pronto a portartela via.~ [CHLOEO]
+@45   = ~C'√® un bel buio qui... spero che la mia eredit√† divina comprenda l'infravisione...!~ [CHLOEP]
 @46   = ~La luce del giorno. E' una benedizione... grazie, Lathander.~ [CHLOEQ]
-@47   = ~Qualcuno puÚ accendere una lanterna o qualcosa di simile? Non riesco a vedere oltre il mio naso...~ [CHLOER]
+@47   = ~Qualcuno pu√≤ accendere una lanterna o qualcosa di simile? Non riesco a vedere oltre il mio naso...~ [CHLOER]
 @48   = ~Sto ascoltando. Cosa vuoi?~ [CHLOE0]
-@49   = ~C'Ë qualcosa che vuoi dirmi?~ [CHLOEF]
-@50   = ~SÏ?~ [CHLOEG]
+@49   = ~C'√® qualcosa che vuoi dirmi?~ [CHLOEF]
+@50   = ~S√¨?~ [CHLOEG]
 @51   = ~Smettila di cincischiare e dimmi cosa vuoi.~ [CHLOEH]
 @52   = ~Certo... cos'altro vuoi che faccia?~ [CHLOES]
-@53   = ~D'accordo. Lo farÚ subito.~ [CHLOEI]
-@54   = ~Sei sicuro che Ë questo che vuoi? Ok, ok...~ [CHLOEJ]
+@53   = ~D'accordo. Lo far√≤ subito.~ [CHLOEI]
+@54   = ~Sei sicuro che √® questo che vuoi? Ok, ok...~ [CHLOEJ]
 @55   = ~Ci penso io, non ti preoccupare.~ [CHLOEK]
 @56   = ~Per la miseria! Sono una guerriera, non una serva! Smettila di darmi ordini.~ [CHLOE_]
 @57   = ~Zha'liis! Mandare avanti la Yr'kai... eccellente idea.~ [CHLOET]
 @58   = ~Mi metto subito all'opera.~ [CHLOEU]
 @59   = ~Ok... ma la prossima volta lo farai TU.~ [CHLOEV]
-@60   = ~Che c'Ë stavolta!?~ [CHLOEX]
+@60   = ~Che c'√® stavolta!?~ [CHLOEX]
 @61   = ~Lucy dice "ciao"!~ [CHLOEY]
 @62   = ~Prendi QUESTO nil'la fiem!~ [CHLOEZ]
 @63   = ~Shal'lach siev! L'ho mancato!?~ [CHLOE1]
-@64   = ~S'tekzhai Ë invulnerabile!~ [CHLOE2]
+@64   = ~S'tekzhai √® invulnerabile!~ [CHLOE2]
 @65   = ~Non pensi che stia portando con me troppa robaccia? Non sono un mulo da soma.~ [CHLOE3]
 @66   = ~Sono annoiata.~
 @67   = ~Sono molto, molto annoiata.~
 @68   = ~Ti pentirai di aver interrotto la mia concentrazione.~
 @69   = ~No, davvero, sono annoiata.~
-@70   = ~Luridi bastardi! Vi ucciderÚ tutti!!~ [CHLOEW]
-@71   = ~Chloe crebbe vicino a Neverwinter, in un piccolo orfanotrofio. Ella sostiene di essere la figlia bastarda di Akadia --dea dell'aria e dell'agilit‡-- e di un uomo mortale. Nonostante non abbia prove della sua discendenza, la sua abilit‡ e velocit‡ soprannaturali le danno certamente credibilit‡. Chloe Ë guidata da un qualche bisogno interiore a migliorare costantemente le proprie capacit‡, spendendo ore ogni giorno ad allenarsi ovunque possa farlo. Ti chiedi come possa essere in grado di combattere cosÏ bene quando molti sarebbero affaticati da un allenamento cosÏ costante, ma lei semplicemente ti sorride amichevolmente e ti dice che ciÚ Ë dovuto all'esercizio giornaliero e non alla sua eredit‡ divina. Ella prova una certa affinit‡ con te e con Imoen, a causa della vostra simile parentela divina.~
-@72   = ~Angh... Ti ucciderÚ per questo!~ [CHLOEL]
+@70   = ~Luridi bastardi! Vi uccider√≤ tutti!!~ [CHLOEW]
+@71   = ~Chloe crebbe vicino a Neverwinter, in un piccolo orfanotrofio. Ella sostiene di essere la figlia bastarda di Akadia --dea dell'aria e dell'agilit√†-- e di un uomo mortale. Nonostante non abbia prove della sua discendenza, la sua abilit√† e velocit√† soprannaturali le danno certamente credibilit√†. Chloe √® guidata da un qualche bisogno interiore a migliorare costantemente le proprie capacit√†, spendendo ore ogni giorno ad allenarsi ovunque possa farlo. Ti chiedi come possa essere in grado di combattere cos√¨ bene quando molti sarebbero affaticati da un allenamento cos√¨ costante, ma lei semplicemente ti sorride amichevolmente e ti dice che ci√≤ √® dovuto all'esercizio giornaliero e non alla sua eredit√† divina. Ella prova una certa affinit√† con te e con Imoen, a causa della vostra simile parentela divina.~
+@72   = ~Angh... Ti uccider√≤ per questo!~ [CHLOEL]
 @73   = ~Nota dello schiavista~
 @74   = ~Miei cari schiavisti,
 
@@ -101,10 +101,10 @@ Sembra che voi teniate in vostro possesso un ragazzo che io e il mio esercito st
 @79   = ~Chloe ti ringhia contro quando tenti di esaminare la sua arma, ma con riluttanza accetta di dirti i suoi poteri:
 Furia di Akadia
 Tipo di arma: scimitarra
-Fattore di velocit‡: 3
+Fattore di velocit√†: 3
 Thac0 bonus: +3 per colpire
-Danno: (1d8) tagliente +3 + (1d2 danno da elettricit‡)
-Effetto quando equipaggiata: Immunit‡ alla cecit‡
+Danno: (1d8) tagliente +3 + (1d2 danno da elettricit√†)
+Effetto quando equipaggiata: Immunit√† alla cecit√†
 Speciale: Sfocatura una volta al giorno
 Utilizzabile solo da Chloe.~
 @80   = ~Rabbia di Akadia~
@@ -112,11 +112,11 @@ Utilizzabile solo da Chloe.~
 
 Rabbia di Akadia
 Tipo di arma: scimitarra
-Fattore di velocit‡: 2
+Fattore di velocit√†: 2
 Thac0 bonus: +4 per colpire
-Danno: (1d8) tagliente +4 + (1d4 danno da elettricit‡) +10% probabilit‡ di stordire
-Effetto quando equipaggiata: Immunit‡ alla cecit‡ e alla confusione
-Speciale: Alacrit‡ Potenziata una volta al giorno, Sfocatura 3 volte al giorno
+Danno: (1d8) tagliente +4 + (1d4 danno da elettricit√†) +10% probabilit√† di stordire
+Effetto quando equipaggiata: Immunit√† alla cecit√† e alla confusione
+Speciale: Alacrit√† Potenziata una volta al giorno, Sfocatura 3 volte al giorno
 
 Utilizzabile solo da Chloe.~
 @82   = ~Ira di Akadia~
@@ -124,18 +124,18 @@ Utilizzabile solo da Chloe.~
 
 Ira di Akadia
 Tipo di arma: scimitarra
-Fattore di velocit‡: 1
+Fattore di velocit√†: 1
 Thac0 bonus: +6 per colpire
-Danno: (1d8) tagliente +6 + (1d6 danno da elettricit‡ +10% probabilit‡ di folgorare l'avversario (1d12 danno) e stordirlo
-Effetto quando equipaggiata: Immunit‡ alla cecit‡, alla confusione e al blocco
-Speciale: Alacrit‡ Potenziata 3 volte al giorno, Sfocatura 3 volte al giorno
+Danno: (1d8) tagliente +6 + (1d6 danno da elettricit√† +10% probabilit√† di folgorare l'avversario (1d12 danno) e stordirlo
+Effetto quando equipaggiata: Immunit√† alla cecit√†, alla confusione e al blocco
+Speciale: Alacrit√† Potenziata 3 volte al giorno, Sfocatura 3 volte al giorno
 Utilizzabile solo da Chloe.~
 @84   = ~Fiamma di Lathandar~
 @85   = ~Chloe ti ringhia contro quando tenti di esaminare la sua arma, ma con riluttanza accetta di dirti i suoi poteri:
 
 Fiamma di Lathandar
 Tipo di arma: spada corta
-Fattore di velocit‡: 2
+Fattore di velocit√†: 2
 Thac0 bonus: +2 per colpire
 Danno: (1d6) perforante +2 + (1d2 danno da fuoco)
 Effetto quando equipaggiata: 25% resistenza al fuoco
@@ -147,9 +147,9 @@ Utilizzabile solo da Chloe.~
 
 Fuoco di Lathandar	
 Tipo di arma: spada corta
-Fattore di velocit‡: 1
+Fattore di velocit√†: 1
 Thac0 bonus: +3 per colpire
-Danno: (1d6) perforante +3 + (1d4 danno da fuoco) + 10% probabilit‡ di accecare l'avversario
+Danno: (1d6) perforante +3 + (1d4 danno da fuoco) + 10% probabilit√† di accecare l'avversario
 Effetto quando equipaggiata: Protezione dal Piano Negativo, 50% resistenza al fuoco
 Effetto: Colpo di Fuoco una volta al giorno
 
@@ -159,9 +159,9 @@ Utilizzabile solo da Chloe.~
 
 Inferno di Lathandar
 Tipo di arma: spada corta
-Fattore di velocit‡: 0
+Fattore di velocit√†: 0
 Thac0 bonus: +5 per colpire
-Danno: (1d6) perforante +5 + (1d6 danno da fuoco) + 15% probabilit‡ di infliggere un ulteriore 1d12 di danno da fuoco e di accecare l'avversario
+Danno: (1d6) perforante +5 + (1d6 danno da fuoco) + 15% probabilit√† di infliggere un ulteriore 1d12 di danno da fuoco e di accecare l'avversario
 Effetto quando equipaggiata: Protezione dal Piano Negativo, 100% resistenza al fuoco, Fortuna
 Speciale: Finta Alba una volta al giorno, Raggio di Sole una volta al giorno
 
