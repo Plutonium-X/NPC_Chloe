@@ -2,7 +2,7 @@ BACKUP ~Chloe/backup~
 AUTHOR ~Lucythebeast@hotmail.com~
 
 // Version appearing in WeiDU.log
-VERSION ~v1.7~
+VERSION ~v1.8~
 
 AUTO_TRA ~Chloe/Language/%s~ // This will tell WeiDU the folder where the D's are stored.
 
